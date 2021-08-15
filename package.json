@@ -1,0 +1,23 @@
+{
+  "name": "week16-homeworks-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n9m2w9q8x0",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "6.26.3",
+    "babel-jest": "26.3.0",
+    "babel-preset-es2015": "6.24.1",
+    "jest": "26.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
